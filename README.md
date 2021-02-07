@@ -1,3 +1,3 @@
 # GeneralPractice
 this is readme file
-it includes description
+it includes description details
