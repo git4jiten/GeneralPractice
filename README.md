@@ -7,3 +7,4 @@ Update from From remote repo
 Update From local repo on details
 New data from other people or developer (c1)
 New from a1 branch
+New from remote
