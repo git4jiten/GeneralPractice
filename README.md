@@ -6,4 +6,4 @@ Editing again this file. Updating it
 Update from From remote repo
 Update From local repo on details
 New data from other
-New from a1
+New from a1 repo
